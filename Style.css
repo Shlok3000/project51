@@ -1,0 +1,50 @@
+h1{
+    color: #123456;
+}
+
+.header{
+    color: #aeaeae;
+    display: flex;
+    padding: 40px;
+    margin-left: 100px;
+}
+
+.grid{
+    color: #135791;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+    margin-right: 50px;
+    border: 2px solid #7ef562;
+    border-radius: 50px;
+}
+
+.item{
+    color: #abcdef;
+    display: flex;
+    padding: 50px;
+    margin: 30px;
+    background-color: #121299;
+    border-radius: 20px;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.bodyimg{
+    color: rgb(255, 230, 0);
+    display: flex;
+    padding: 40px;
+    margin: 70px;
+    background-color: seagreen;
+}
+
+.menu{
+    color: midnightblue;
+    display: flex;
+    padding: 50px;
+    margin-top: 70;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background-color: navy;
+}
